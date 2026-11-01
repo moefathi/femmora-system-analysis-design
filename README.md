@@ -86,3 +86,6 @@ The system design documentation includes:
 - **Project Type:** Academic Project
 - **Course:** Systems Analysis & Design
 - **Semester:** Spring 2026
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
